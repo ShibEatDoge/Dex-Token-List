@@ -1,0 +1,29 @@
+{
+  "name": " Default List",
+  "timestamp": "2023-01-21T23:57:10.982Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "",
+    "default"
+  ],
+  "tokens": [
+    
+    {
+      "chainId": 109,
+      "address": "0x213c25900f365F1BE338Df478CD82beF7Fd43F85",
+      "name": "WBONE",
+      "symbol": "WBONE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ReBaseBASE/ReSwap-Token-List/main/assets/wtoken.png"
+    }
+
+
+    
+  ]
+}
