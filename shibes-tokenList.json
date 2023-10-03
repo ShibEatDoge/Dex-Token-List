@@ -21,9 +21,15 @@
       "symbol": "WBONE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x9813037ee2218799597d83D4a5B6F3b6778218d9/logo.png"
+    },
+    {
+      "chainId": 109,
+      "address": "0x259AC1310d4663c040B92616248EACd621aDdb84",
+      "name": "The Shibes",
+      "symbol": "SHIBES",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ShibEatDoge/Dex-Token-List/main/assets/IMG_0006.png"
     }
-
-
     
   ]
 }
